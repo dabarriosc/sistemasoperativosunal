@@ -1,0 +1,10 @@
+Resumen Sistemas operativos
+
+Se comienza con un descripción de el porque es necesario un sistema operativo, 
+que haga el papel de intermediario entre las aplicaciones y el hardware del computador, 
+luego se  da un recorrido por los diversos sistemas operativos que podemos encontrar en la actualidad 
+desde el más común (Windows), hasta otros  menos frecuentes pero igual de importantes como los son Linux
+ y Mac OS,  en este apartado se enfatiza un poco en el sesgo del mercado y como cada usuario debería tene
+r la posibilidad de elegir que sistema operativo desea usar. Finalmente se da un repaso a los tipos de 
+sistemas operativos y como es su funcionamiento, si son multitarea o monotarea, multiusuario o de un único usuario
+, también se toca la administración de recursos de la cual también se encarga el sistema operativo. 
