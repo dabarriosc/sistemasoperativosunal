@@ -1,0 +1,37 @@
+resumen clase 1:
+
+En este vide se explica como fue evolucionando la maquina hasta el punto en que se requirio 
+de un sitema operativo se aborda desde la maquina desnuda hasta los monitores recidentes, siendo 
+asi estos mismos el unicio de la idea de un programa que se mantienen en memoria, dandose la imple-
+mentacion del terminal para el manejo de la computadora (DOS)
+
+Avanzando un poco mas se habla de que es un sistema operativo, se define en primera instancia como:
+un sofware que administra y controla la maquina, mas tarde se profundizaria en que significa esta 7
+definicion.
+
+se empieza a hablar de las lineas de los sistemas operativos:
+
+primera linea: define si un sistema operativo es multitare( hay que ejecutar varios programas de manera 
+concurrente para no tener perdidas de cpu)
+segunda linea: el sistema operativo necesita crear abstracciones de distintas cosas entre 
+ellas los perifericos
+
+pasando por esto se dan las 3 funciones fundamentales de un sistema operativo que son :
+
+Administrar recursos, Abstraer hardware y ofrecer una interfaz
+
+para finalizar se dan las caracteriticas de un sistema operativ monerno las cueles son:
+
+Multitarea, multiusuario, multiprocesos 
+
+cerrando con  el como se implementa la multitarea
+
+Resumen Microkernel
+
+se habla de como el microkernel es un tipo de estructura de sistema operativo, dendro del microkernel hay 
+varios tipos de mecanismo para controlar los reccursos del hardware, tambien se habla que en esta estructura se
+dan los procesos en dos maneras el mo usuario y el modo kernel, se habla un poco de la sventajas t desventajas de esta
+estructura donde la principal desventaja es el rendimiento  devido a las llamadas primitivas del sistema 
+
+
+
