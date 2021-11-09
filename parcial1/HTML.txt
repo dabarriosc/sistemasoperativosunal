@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BUSHIDO</title>
+    <link rel="stylesheet" href="hojas_estilos.css">
+    
+</head>
+<body>
+    <header>
+         <nav>
+             <div class="logo_empresa">
+                 <img src="logo.PNG" alt="">
+             </div>
+             <div class="icono" id="icono">
+                 <span>&#9776;</span>
+             </div>
+             <div class="enlaces_uno" id="enlaces">
+                 <a href="#" class="active">Inicio</a>
+                 <a href="#">Nosotros</a>
+                 <a href="#">Contacto</a>
+             </div>
+         </nav>
+
+
+
+
+
+
+        <div class="textos">
+           <h1 class="titulo" > BUSHIDO  </h1>
+           <h3 class="subtitulo">una nueva experiencia en tu paladar</H3>
+            <a href="#" class="button">Contactanos</a>
+        </div>
+        <div class="sesgoabajo"></div>
+    </header>
+    <main>
+      <section>
+        <div class="Que_nos_hace_unicos">
+            <div class="contenedor"> 
+                <h2 class="somos_especiales">!Que nos hace unicos¡</h2>
+                <h3 class="slogan">Algo mas que una comida</h3>
+                <p class="parrafo">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio non eius illum expedita, corrupti aperiam reprehenderit sed quia animi sit alias dicta fugiat, delectus necessitatibus vitae quos ab fugit repellat ipsam adipisci neque tempore natus eveniet nihil. Corporis inventore dicta a eos esse consequatur blanditiis impedit, autem placeat distinctio tempora doloremque possimus totam veritatis, dolores nam accusantium temporibus facere! Cupiditate, fuga molestias. Quisquam, consequatur ipsum fuga modi aliquid ipsam perspiciatis.</p>
+                <p class="parrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur alias, nam recusandae placeat aut pariatur assumenda facilis dolorem unde impedit sint, illum eaque beatae natus debitis numquam temporibus suscipit reiciendis animi quibusdam nesciunt nisi totam. Magnam labore possimus cumque veritatis, cum minima, iste totam aspernatur eaque commodi quam ex molestiae, eveniet quia libero aut. Esse deserunt minus veniam enim magni, est fuga amet qui inventore nemo, natus optio debitis aliquid!</p>
+                <a href="#" class=" button_2">Suscribete</a>
+            </div>
+
+        </div>
+      </section >
+      <section class="galeria">
+          <div class="sesgoarriba"></div>
+          <div class="imagenes"><img src="imagen_1.jpg" alt=""></div>
+          
+          <div class="imagenes"><img src="imagen_2.jpg" alt=""></div>
+          
+          <div class="imagenes"><img src="imagen_3.jpg" alt=""></div>
+         
+          
+          <div class="imagenes"><img src="imagen_4.jpg" alt=""></div>
+          
+          <div class="imagenes"><img src="imagen_5.jpg" alt=""></div>
+          
+          <div class="sesgoabajo"></div>
+
+    </section>
+    </main>
+    <footer>
+        <div class="contenedor">
+            
+            <h2 class="titulo_footer">se parte de nuestra familia</h2>
+            <h3 class="subtitulo_footer">seria un placer atender su pedido</h3>
+            <div class="footer">
+                <form action="">
+                    <input type="text" name="" id="" placeholder="nombre">
+                    <input type="tel" name="" id="" placeholder="celular">
+                    <input type="text" name="" id="" placeholder="fecha de nacimiento">
+
+                    <input type="submit" value="">
+
+
+
+
+                </form>
+
+
+
+
+
+            </div>
+
+
+
+
+
+        </div>
+    </footer>
+
+    
+    
+</body>
+</html>
